@@ -1,0 +1,20 @@
+Best Hyperparameters for Support Vector Machines (SVM):
+SVR(C=0.1, gamma=1)
+-----------------------------
+Best Hyperparameters for Random Forest:
+RandomForestRegressor(max_depth=10, n_estimators=200)
+-----------------------------
+Best Hyperparameters for LightGBM:
+LGBMRegressor(max_depth=7)
+
+Predicted stock prices for the next 10 days:
+Day 1: 105.50
+Day 2: 105.44
+Day 3: 105.39
+Day 4: 105.34
+Day 5: 105.29
+Day 6: 105.23
+Day 7: 105.18
+Day 8: 105.13
+Day 9: 105.07
+Day 10: 105.02
